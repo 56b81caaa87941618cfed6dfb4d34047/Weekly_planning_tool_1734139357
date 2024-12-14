@@ -111,5 +111,15 @@
         "source": "base_assistant",
         "content": "The header now says \"Saturday.\" How else can I assist you with your app?",
         "metadata": {}
+    },
+    {
+        "id": "d2b40502-bf37-48b8-bcad-dd6cae72112a",
+        "timestamp": "2024-12-14T02:13:36.444554Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "what does the header say",
+        "metadata": {
+            "component_id": "Header1734139359"
+        }
     }
 ]
