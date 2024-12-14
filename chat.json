@@ -93,5 +93,15 @@
         "source": "base_assistant",
         "content": "The header text has been updated to \"Saturday.\" What would you like to do next?",
         "metadata": {}
+    },
+    {
+        "id": "bed453ca-3a53-491a-81c9-04cc6cc29265",
+        "timestamp": "2024-12-14T02:13:26.543147Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "what does the header say",
+        "metadata": {
+            "component_id": "Header1734139359"
+        }
     }
 ]
