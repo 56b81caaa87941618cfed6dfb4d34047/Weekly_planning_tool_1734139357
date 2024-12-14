@@ -24,5 +24,15 @@
         "source": "base_assistant",
         "content": "Hello! How can I assist you with building your app today?",
         "metadata": {}
+    },
+    {
+        "id": "c180a863-84bc-41a1-a565-60957cd754c0",
+        "timestamp": "2024-12-14T01:23:03.520994Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "how are you doing",
+        "metadata": {
+            "component_id": "Header1734139359"
+        }
     }
 ]
