@@ -42,5 +42,15 @@
         "source": "base_assistant",
         "content": "I'm here and ready to help you build your app! What would you like to work on today?",
         "metadata": {}
+    },
+    {
+        "id": "9564d546-b31f-407c-bdc2-178db157401a",
+        "timestamp": "2024-12-14T01:23:15.433138Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "change header to saturday",
+        "metadata": {
+            "component_id": "Header1734139359"
+        }
     }
 ]
