@@ -1,0 +1,23 @@
+{
+    "name": "example",
+    "prefix": "%#PLACEHOLDER",
+    "placeholderMappings": {
+        "Header": [
+            "APPLICATION_NAME"
+        ],
+        "Hero": [
+            "HERO_HEADING_TEXT",
+            "HERO_SUBHEADING_TEXT"
+        ],
+        "Footer": [
+            "APPLICATION_NAME",
+            "FOOTER_TEXT"
+        ]
+    },
+    "placeholders": {
+        "APPLICATION_NAME": "Friday",
+        "HERO_HEADING_TEXT": "Embrace Your Weekend, Every Day",
+        "HERO_SUBHEADING_TEXT": "Revolutionize your work-life balance with Friday, the app that brings weekend vibes to your entire week.",
+        "FOOTER_TEXT": "\u00a9 2023 Friday Project. Make every day feel like the weekend."
+    }
+}
