@@ -282,5 +282,15 @@
         "source": "base_assistant",
         "content": "The header background color has been changed to green. Is there anything else you would like to modify or add?",
         "metadata": {}
+    },
+    {
+        "id": "e8b68c46-7862-4d5d-bd53-b996cbb34874",
+        "timestamp": "2024-12-17T15:05:43.697713Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "replace this with a form about what you are going to do this weekend",
+        "metadata": {
+            "component_id": "Hero1734139359"
+        }
     }
 ]
