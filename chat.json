@@ -333,5 +333,15 @@
         "source": "base_assistant",
         "content": "The content has been replaced with a form for submitting weekend plans. How else can I assist you?",
         "metadata": {}
+    },
+    {
+        "id": "2ec1329c-332d-44e8-8a69-a9cfef983aad",
+        "timestamp": "2024-12-17T15:06:46.315912Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "replace backgroudn with this image ./src/assets/images/Screenshot 2024-11-11 at 8.35.52\u202fAM.jpeg",
+        "metadata": {
+            "component_id": "Hero1734139359"
+        }
     }
 ]
