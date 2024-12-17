@@ -231,5 +231,56 @@
         "source": "base_assistant",
         "content": "The header background color has been changed back to blue. How else can I assist you?",
         "metadata": {}
+    },
+    {
+        "id": "d8c9abfa-2f77-434c-b6c9-12f9cc66e987",
+        "timestamp": "2024-12-17T15:05:05.303173Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "change background to green",
+        "metadata": {
+            "component_id": "Header1734139359"
+        }
+    },
+    {
+        "id": "d83d3985-f1b8-4e7b-b2c7-430ef2275fd5",
+        "timestamp": "2024-12-17T15:05:06.813122Z",
+        "role": "tool_call",
+        "source": "base_assistant",
+        "content": null,
+        "metadata": {
+            "id": "call_JcGpQYVlbxeIPdBNURJf6jqC",
+            "function": {
+                "arguments": "{\"component_id\": \"Header1734139359\", \"change_description\": \"Change the header background color to green\", \"acknowledgement_message\": \"Okay, I'm changing the header background color to green...\"}",
+                "name": "EditFrontendComponent"
+            },
+            "type": "function"
+        }
+    },
+    {
+        "id": "1b6fe5dd-c850-429d-a154-c21c8599e3ae",
+        "timestamp": "2024-12-17T15:05:06.833527Z",
+        "role": "assistant",
+        "source": "tool:EditFrontendComponent",
+        "content": "Okay, I'm changing the header background color to green...",
+        "metadata": {}
+    },
+    {
+        "id": "61a073a2-5ab5-4135-bbd1-85411a543d10",
+        "timestamp": "2024-12-17T15:05:12.300201Z",
+        "role": "tool_result",
+        "source": "EditFrontendComponent",
+        "content": "",
+        "metadata": {
+            "tool_call_id": "call_JcGpQYVlbxeIPdBNURJf6jqC"
+        }
+    },
+    {
+        "id": "444ecd4b-b3b4-4637-b775-9602d4854748",
+        "timestamp": "2024-12-17T15:05:13.278031Z",
+        "role": "assistant",
+        "source": "base_assistant",
+        "content": "The header background color has been changed to green. Is there anything else you would like to modify or add?",
+        "metadata": {}
     }
 ]
