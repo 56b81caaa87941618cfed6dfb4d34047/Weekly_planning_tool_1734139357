@@ -456,5 +456,23 @@
         "source": "base_assistant",
         "content": "Is there something specific you would like to test or modify in your app? I'm here to help!",
         "metadata": {}
+    },
+    {
+        "id": "2e29aab8-d5ff-4329-a35f-992fe99d284e",
+        "timestamp": "2024-12-19T03:11:43.332632Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "test",
+        "metadata": {
+            "component_id": "Header1734139359"
+        }
+    },
+    {
+        "id": "0fff2234-88c8-44aa-a228-48967b151975",
+        "timestamp": "2024-12-19T03:11:45.135856Z",
+        "role": "assistant",
+        "source": "base_assistant",
+        "content": "Everything seems to be working fine. What else would you like to do with your app?",
+        "metadata": {}
     }
 ]
