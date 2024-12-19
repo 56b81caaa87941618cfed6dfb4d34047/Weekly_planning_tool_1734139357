@@ -438,5 +438,15 @@
         "source": "base_assistant",
         "content": "Is there anything specific you'd like to test or any changes you'd like to make to your app?",
         "metadata": {}
+    },
+    {
+        "id": "99db7560-cf59-4421-a40f-e90ec349804a",
+        "timestamp": "2024-12-19T03:08:35.934445Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "testing",
+        "metadata": {
+            "component_id": "Header1734139359"
+        }
     }
 ]
