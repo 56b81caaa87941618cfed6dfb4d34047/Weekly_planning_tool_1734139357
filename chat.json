@@ -1182,5 +1182,23 @@
         "source": "base_assistant",
         "content": "Is there a specific feature or change you'd like to test in the Hero component? Let me know how I can assist you!",
         "metadata": {}
+    },
+    {
+        "id": "599c2ec1-076d-4ee1-9cc5-e5a7a1e0c121",
+        "timestamp": "2024-12-19T04:30:02.631196Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "test",
+        "metadata": {
+            "component_id": "Header1734139359"
+        }
+    },
+    {
+        "id": "c3f32944-760b-4dbb-a587-f5d5081bfab4",
+        "timestamp": "2024-12-19T04:30:04.578808Z",
+        "role": "assistant",
+        "source": "base_assistant",
+        "content": "Everything seems to be working fine. How else can I assist you with your app?",
+        "metadata": {}
     }
 ]
