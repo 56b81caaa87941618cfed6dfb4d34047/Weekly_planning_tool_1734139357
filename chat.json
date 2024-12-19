@@ -510,5 +510,15 @@
         "source": "base_assistant",
         "content": "It looks like everything is functioning correctly. What would you like to work on next?",
         "metadata": {}
+    },
+    {
+        "id": "536e4a22-58ab-47e5-8b19-6cede65fbbfd",
+        "timestamp": "2024-12-19T03:14:59.457984Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "test",
+        "metadata": {
+            "component_id": "Header1734139359"
+        }
     }
 ]
