@@ -1023,5 +1023,23 @@
         "source": "base_assistant",
         "content": "Everything seems to be functioning properly. What would you like to work on next?",
         "metadata": {}
+    },
+    {
+        "id": "923aa488-ada8-429d-9d1f-f6e276b43751",
+        "timestamp": "2024-12-19T04:00:29.175924Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "test",
+        "metadata": {
+            "component_id": "Hero1734139359"
+        }
+    },
+    {
+        "id": "10204c88-cd44-41f9-bd81-40bc3ec12446",
+        "timestamp": "2024-12-19T04:00:30.724066Z",
+        "role": "assistant",
+        "source": "base_assistant",
+        "content": "Is there something specific you would like to test or change? Let me know how I can assist you!",
+        "metadata": {}
     }
 ]
