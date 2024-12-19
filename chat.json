@@ -1218,5 +1218,15 @@
         "source": "base_assistant",
         "content": "How would you like to use this image in your Hero component? Should it be added to the background, or used in another way?",
         "metadata": {}
+    },
+    {
+        "id": "e181a817-d420-4796-8e9a-3f71ce349a71",
+        "timestamp": "2024-12-19T16:13:43.278380Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "test",
+        "metadata": {
+            "component_id": "Hero1734139359"
+        }
     }
 ]
