@@ -807,5 +807,15 @@
         "source": "base_assistant",
         "content": "Everything seems to be functioning properly. What would you like to work on next?",
         "metadata": {}
+    },
+    {
+        "id": "a00257cc-476f-4a6e-910f-941f6e650144",
+        "timestamp": "2024-12-19T03:26:27.129124Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "test",
+        "metadata": {
+            "component_id": "Header1734139359"
+        }
     }
 ]
