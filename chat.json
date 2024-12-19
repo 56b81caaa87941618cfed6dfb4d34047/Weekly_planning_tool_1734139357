@@ -1041,5 +1041,15 @@
         "source": "base_assistant",
         "content": "Is there something specific you would like to test or change? Let me know how I can assist you!",
         "metadata": {}
+    },
+    {
+        "id": "7920f775-a3ed-4f1d-ae21-dce988e457a7",
+        "timestamp": "2024-12-19T04:09:21.576145Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "test",
+        "metadata": {
+            "component_id": "Hero1734139359"
+        }
     }
 ]
