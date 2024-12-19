@@ -1023,5 +1023,15 @@
         "source": "base_assistant",
         "content": "Everything seems to be functioning properly. What would you like to work on next?",
         "metadata": {}
+    },
+    {
+        "id": "923aa488-ada8-429d-9d1f-f6e276b43751",
+        "timestamp": "2024-12-19T04:00:29.175924Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "test",
+        "metadata": {
+            "component_id": "Hero1734139359"
+        }
     }
 ]
