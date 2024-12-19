@@ -735,5 +735,15 @@
         "source": "base_assistant",
         "content": "Everything seems to be working fine. What would you like to do next with your app?",
         "metadata": {}
+    },
+    {
+        "id": "c3a6dddd-9a1b-428a-8369-97b455a8f621",
+        "timestamp": "2024-12-19T03:22:58.983342Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "test",
+        "metadata": {
+            "component_id": "Header1734139359"
+        }
     }
 ]
