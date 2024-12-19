@@ -771,5 +771,15 @@
         "source": "base_assistant",
         "content": "Everything appears to be working fine. How else can I assist you with your app?",
         "metadata": {}
+    },
+    {
+        "id": "9b30367e-ecfb-4a37-ac37-69b42675773f",
+        "timestamp": "2024-12-19T03:24:23.285285Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "test",
+        "metadata": {
+            "component_id": "Header1734139359"
+        }
     }
 ]
