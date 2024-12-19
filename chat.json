@@ -384,5 +384,15 @@
         "source": "base_assistant",
         "content": "The background has been updated with the specified image. Is there anything else you would like to modify or add?",
         "metadata": {}
+    },
+    {
+        "id": "b65e5c09-5d03-4e52-84d7-232a27647e0f",
+        "timestamp": "2024-12-19T00:13:59.609918Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "test",
+        "metadata": {
+            "component_id": "Header1734139359"
+        }
     }
 ]
