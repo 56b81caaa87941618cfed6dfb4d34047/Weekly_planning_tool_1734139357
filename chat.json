@@ -1059,5 +1059,15 @@
         "source": "base_assistant",
         "content": "Is there a specific feature or functionality you would like to test or modify in the Hero component? Let me know, and I can assist you further!",
         "metadata": {}
+    },
+    {
+        "id": "1ef0b08b-12c9-43ef-b39a-9e595b6d306e",
+        "timestamp": "2024-12-19T04:12:51.126357Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "test",
+        "metadata": {
+            "component_id": "Hero1734139359"
+        }
     }
 ]
