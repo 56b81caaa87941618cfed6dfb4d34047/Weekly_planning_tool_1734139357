@@ -1443,5 +1443,56 @@
         "source": "base_assistant",
         "content": "The background color of the Hero component has been changed to green. How else can I assist you?",
         "metadata": {}
+    },
+    {
+        "id": "8b2202be-ec3f-4d61-9600-caff14fa1bd6",
+        "timestamp": "2024-12-20T19:16:30.345576Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "change background to blue",
+        "metadata": {
+            "component_id": "Hero1734139359"
+        }
+    },
+    {
+        "id": "17448d0c-f099-4121-acbe-39863e5d56de",
+        "timestamp": "2024-12-20T19:16:32.990529Z",
+        "role": "tool_call",
+        "source": "base_assistant",
+        "content": null,
+        "metadata": {
+            "id": "call_7D6AJbqEPenNzNMrNyRj3JOl",
+            "function": {
+                "arguments": "{\"component_id\": \"Hero1734139359\", \"change_description\": \"Change the background color to blue\", \"acknowledgement_message\": \"Okay, I'm changing the background color to blue...\"}",
+                "name": "EditFrontendComponent"
+            },
+            "type": "function"
+        }
+    },
+    {
+        "id": "f73ae984-4f01-40f0-9b13-3d175e343bbd",
+        "timestamp": "2024-12-20T19:16:33.012354Z",
+        "role": "assistant",
+        "source": "tool:EditFrontendComponent",
+        "content": "Okay, I'm changing the background color to blue...",
+        "metadata": {}
+    },
+    {
+        "id": "7a9dd371-5396-4d91-94cb-54e64cdbd1ae",
+        "timestamp": "2024-12-20T19:16:39.163450Z",
+        "role": "tool_result",
+        "source": "EditFrontendComponent",
+        "content": "",
+        "metadata": {
+            "tool_call_id": "call_7D6AJbqEPenNzNMrNyRj3JOl"
+        }
+    },
+    {
+        "id": "1592f33e-3e2c-4f7a-9839-c9c0d1e477d3",
+        "timestamp": "2024-12-20T19:16:40.668839Z",
+        "role": "assistant",
+        "source": "base_assistant",
+        "content": "The background color of the Hero component has been changed to blue. Is there anything else you would like to modify or add?",
+        "metadata": {}
     }
 ]
