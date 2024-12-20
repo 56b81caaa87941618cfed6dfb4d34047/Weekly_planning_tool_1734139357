@@ -2055,5 +2055,15 @@
         "source": "base_assistant",
         "content": "The background color of the Hero component has been changed to green. What would you like to work on next?",
         "metadata": {}
+    },
+    {
+        "id": "39d11ce0-6497-4a0f-aac2-18a8b62240ee",
+        "timestamp": "2024-12-20T23:16:39.897523Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "change background to blue",
+        "metadata": {
+            "component_id": "Hero1734139359"
+        }
     }
 ]
