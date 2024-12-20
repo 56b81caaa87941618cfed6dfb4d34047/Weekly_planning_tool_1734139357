@@ -7,7 +7,7 @@ const Hero: React.FC = () => {
   };
 
   return (
-    <div className="bg-green-500 py-16 text-white w-full h-full">
+    <div className="bg-red-500 py-16 text-white w-full h-full">
       <div className="container mx-auto px-4 flex flex-col items-center h-full">
         <h1 className="text-4xl font-bold mb-8">Weekend Plans</h1>
         <div 
